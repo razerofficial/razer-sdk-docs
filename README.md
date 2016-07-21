@@ -1,6 +1,6 @@
 # Razer SDK
 
-The `Razer SDK` provides an `API` to integrate controller input, access gamer info, request product information, check receipts, and trigger in-app-purchases.
+The `Razer SDK` provides an `API` to integrate controller input, access gamer info, request product information, check receipts, and trigger in-app-purchases. Use the [developer portal](https://devs.ouya.tv) to create an account, setup your game, to setup purchases, to download the `Secret API Key` for your game, and to submit your game for review.
 
 ## Engines
 
