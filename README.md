@@ -2,6 +2,10 @@
 
 The `Razer SDK` provides an `API` to integrate controller input, access gamer info, request product information, check receipts, and trigger in-app-purchases. Use the [developer portal](https://devs.ouya.tv) to create an account, setup your game, to setup purchases, to download the `Secret API Key` for your game, and to submit your game for review.
 
+## Requirements
+
+The [content-review-guidelines](https://github.com/ouya/docs/blob/razer-sdk/content-review-guidelines.md) provide a set of recommendations and requirements that are checked during review. Mobile publishing does not use the same controller requirements as games are expected to have touch support. However, the SDK is compatible with controllers. For Mobile games, review does require that `SDK` initialization and shutdown code must be used which can be found in the engine documentation below.  
+
 ## Engines
 
 The following engines have support for the `RazerSDK`.
@@ -12,7 +16,7 @@ The following engines have support for the `RazerSDK`.
 
 ### GameMaker
 
-The `RazerSDK` can be accessed via a GameMaker extension. For details and samples visit [https://github.com/razerofficial/game-maker-razer-sdk](https://github.com/razerofficial/game-maker-razer-sdk).
+The `RazerSDK` can be accessed via a `GameMaker` extension. For details and samples visit [https://github.com/razerofficial/game-maker-razer-sdk](https://github.com/razerofficial/game-maker-razer-sdk).
 
 ### Java
 
