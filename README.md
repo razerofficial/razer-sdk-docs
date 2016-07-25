@@ -4,7 +4,7 @@ The `Razer SDK` provides an `API` to integrate controller input, access gamer in
 
 ## Requirements
 
-The [content-review-guidelines](https://github.com/ouya/docs/blob/razer-sdk/content-review-guidelines.md) provide a set of recommendations and requirements that are checked during review. Mobile publishing does not use the same controller requirements as games are expected to have touch support. However, the SDK is compatible with controllers. For Mobile games, review does require that `SDK` initialization and shutdown code must be used which can be found in the engine documentation below.  
+The [content-review-guidelines](https://github.com/ouya/docs/blob/razer-sdk/content-review-guidelines.md) provide a set of recommendations and requirements that are checked during review. Mobile games are required to support touch input. Adding controller support for mobile games is optional. The SDK supports controller input for users that pair bluetooth controllers with mobile devices. The review process requires that `SDK` initialization and shutdown code must be used which can be found in the engine documentation below.  
 
 ## Engines
 
