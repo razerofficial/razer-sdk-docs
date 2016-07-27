@@ -26,6 +26,10 @@ The `RazerSDK` can be accessed via a `GameMaker` extension. For details and samp
 
 `Unity` is a popular game engine. The `RazerSDK` can be accessed via the `RazerSDK Unity Plugin`. For details and samples visit [https://github.com/razerofficial/unity-plugin-razer-sdk](https://github.com/razerofficial/unity-plugin-razer-sdk).
 
+### Unreal
+
+`Unreal` is another popular game engine. The `RazerSDK` can be accessed via the `RazerSDK UE4 Plugin`. For details and samples visit [https://github.com/razerofficial/ue4-plugin-razer-sdk](https://github.com/razerofficial/ue4-plugin-razer-sdk).
+
 ## Create an account
 
 In order to access the `RazerSDK`, a developer account must be created via the [developer portal](https://devs.ouya.tv). Click the `Sign up` link on the landing page or log in with an existing account.
