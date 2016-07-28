@@ -30,6 +30,8 @@ The `RazerSDK` can be accessed via a `GameMaker` extension. For details and samp
 
 `Unreal` is another popular game engine. The `RazerSDK` can be accessed via the `RazerSDK UE4 Plugin`. For details and samples visit [https://github.com/razerofficial/ue4-plugin-razer-sdk](https://github.com/razerofficial/ue4-plugin-razer-sdk).
 
+# Getting Started
+
 ## Create an account
 
 In order to access the `RazerSDK`, a developer account must be created via the [developer portal](https://devs.ouya.tv). Click the `Sign up` link on the landing page or log in with an existing account.
@@ -77,3 +79,9 @@ The game entry details displays the `package name` which must match with the gam
 The `Secret Key Page` displays the `API Key` in common formats so that it can be copied for the particular game engine.
 
 ![image_8](razer-sdk/image_8.png)
+
+# Product Setup
+
+The `Products` section of the [developer portal](https://devs.ouya.tv/developers/products) controls the setup process for premium purchases and in-app-purchases. `New Product` creates `Entitlement` and `Consumables`. `Entitlements` are one-time purchases and appear in the receipt results. `Consumables` can be purchased more than once and are used for things like in-game gems and game currency. `Consumables` do not appear in the receipt results. Both `Entitlements` and `Consumables` are assigned an `identifier` which is used by the `RazerSDK`.  
+
+![image_9](razer-sdk/image_9.png)
