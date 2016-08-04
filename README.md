@@ -14,6 +14,10 @@ The following engines have support for the `RazerSDK`. Be sure to let us know wh
 
 `Adobe Air` apps can be built from `Animate CC` or `Flash Develop`. Adobe recently renamed their `Flash` product as `Animate CC` part of the `Adobe Creative Cloud` suite. The `RazerSDK` can be accessed via the `RazerSDK Native Extension`. For details and samples visit [https://github.com/razerofficial/adobe-air-razer-sdk](https://github.com/razerofficial/adobe-air-razer-sdk).
 
+### Cocos2d
+
+The `RazerSDK` can be accessed via the `RazerSDK Cocos2d Plugin`. For details and samples visit [https://github.com/razerofficial/cocos2d-plugin-razer-sdk](https://github.com/razerofficial/cocos2d-plugin-razer-sdk).
+
 ### GameMaker
 
 The `RazerSDK` can be accessed via a `GameMaker` extension. For details and samples visit [https://github.com/razerofficial/game-maker-razer-sdk](https://github.com/razerofficial/game-maker-razer-sdk).
