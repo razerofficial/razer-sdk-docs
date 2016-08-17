@@ -1,4 +1,4 @@
-# Razer SDK
+# Razer Store SDK
 
 The latest version of this document can be found at [https://github.com/razerofficial/razer-sdk-docs](https://github.com/razerofficial/razer-sdk-docs).
 
