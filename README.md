@@ -14,27 +14,31 @@ The following engines have support for the `RazerSDK`. Be sure to let us know wh
 
 ### Adobe Air
 
-`Adobe Air` apps can be built from `Animate CC` or `Flash Develop`. Adobe recently renamed their `Flash` product as `Animate CC` part of the `Adobe Creative Cloud` suite. The `RazerSDK` can be accessed via the `RazerSDK Native Extension`. For details and samples visit [https://github.com/razerofficial/adobe-air-razer-sdk](https://github.com/razerofficial/adobe-air-razer-sdk).
+`Adobe Air` is a `2D` engine. `Adobe Air` apps can be built from `Animate CC` or `Flash Develop`. Adobe recently renamed their `Flash` product as `Animate CC` part of the `Adobe Creative Cloud` suite. The `RazerSDK` can be accessed via the `RazerSDK Native Extension`. For details and samples visit [https://github.com/razerofficial/adobe-air-razer-sdk](https://github.com/razerofficial/adobe-air-razer-sdk).
 
 ### Cocos2d
 
-The `RazerSDK` can be accessed via the `RazerSDK Cocos2d Plugin`. For details and samples visit [https://github.com/razerofficial/cocos2d-plugin-razer-sdk](https://github.com/razerofficial/cocos2d-plugin-razer-sdk).
+`Cocos2d` is a `2D` and `3D` C++ engine. The `RazerSDK` can be accessed via the `RazerSDK Cocos2d Plugin`. For details and samples visit [https://github.com/razerofficial/cocos2d-plugin-razer-sdk](https://github.com/razerofficial/cocos2d-plugin-razer-sdk).
 
 ### GameMaker
 
-The `RazerSDK` can be accessed via a `GameMaker` extension. For details and samples visit [https://github.com/razerofficial/game-maker-razer-sdk](https://github.com/razerofficial/game-maker-razer-sdk).
+`GameMaker` is a `2D` engine. The `RazerSDK` can be accessed via a `GameMaker` extension. For details and samples visit [https://github.com/razerofficial/game-maker-razer-sdk](https://github.com/razerofficial/game-maker-razer-sdk).
 
 ### Java
 
 `Java` is common language supported by most `Android` game engines. The `RazerSDK` can be accessed via an Android Library. For details and samples visit [https://github.com/razerofficial/java-razer-sdk](https://github.com/razerofficial/java-razer-sdk).
 
+### Marmalade
+
+`Marmalade` is a `2D` and `3D` C++ engine. The `RazerSDK` can be accessed via a `RazerSDK Marmalade` extension. For details and samples visit [https://github.com/razerofficial/marmalade-plugin-razer-sdk](https://github.com/razerofficial/marmalade-plugin-razer-sdk).
+
 ### Unity
 
-`Unity` is a popular game engine. The `RazerSDK` can be accessed via the `RazerSDK Unity Plugin`. For details and samples visit [https://github.com/razerofficial/unity-plugin-razer-sdk](https://github.com/razerofficial/unity-plugin-razer-sdk).
+`Unity` is a `2D` and `3D` engine. The `RazerSDK` can be accessed via the `RazerSDK Unity Plugin`. For details and samples visit [https://github.com/razerofficial/unity-plugin-razer-sdk](https://github.com/razerofficial/unity-plugin-razer-sdk).
 
 ### Unreal
 
-`Unreal` is another popular game engine. The `RazerSDK` can be accessed via the `RazerSDK UE4 Plugin`. For details and samples visit [https://github.com/razerofficial/ue4-plugin-razer-sdk](https://github.com/razerofficial/ue4-plugin-razer-sdk).
+`Unreal` is a `2D` and `3D` engine. The `RazerSDK` can be accessed via the `RazerSDK UE4 Plugin`. For details and samples visit [https://github.com/razerofficial/ue4-plugin-razer-sdk](https://github.com/razerofficial/ue4-plugin-razer-sdk).
 
 # Getting Started
 
