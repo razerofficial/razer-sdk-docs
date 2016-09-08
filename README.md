@@ -20,6 +20,10 @@ The following engines have support for the `RazerSDK`. Be sure to let us know wh
 
 `Cocos2d` is a `2D` and `3D` C++ engine. The `RazerSDK` can be accessed via the `RazerSDK Cocos2d Plugin`. For details and samples visit [https://github.com/razerofficial/cocos2d-plugin-razer-sdk](https://github.com/razerofficial/cocos2d-plugin-razer-sdk).
 
+### Corona
+
+`Corona` is a `2D` Lua engine. The `RazerSDK` can be accessed via the `RazerSDK Corona Plugin`. For details and samples visit [https://github.com/razerofficial/corona-plugin-razer-sdk](https://github.com/razerofficial/corona-plugin-razer-sdk).
+
 ### GameMaker
 
 `GameMaker` is a `2D` engine. The `RazerSDK` can be accessed via a `GameMaker` extension. For details and samples visit [https://github.com/razerofficial/game-maker-razer-sdk](https://github.com/razerofficial/game-maker-razer-sdk).
